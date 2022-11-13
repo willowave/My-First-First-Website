@@ -1,0 +1,27 @@
+.MyLink {
+color:#cb5810;
+text-decoration:none
+}.MyLink:hover {
+text-decoration:underline
+}.About {
+color:#000;
+font-family:BitLow
+}#about {
+color:#77bb44
+}#Secret {
+color:#606060
+}#red {
+color:#ef2840
+}#blue {
+color:#3148f5
+}#orange {
+color:#f38226
+}#purple {
+color:#9135d7
+}#heading,#title {
+color:#ebbf29
+}#drange {
+	color: #cb5810;
+}#bfs {
+	font-size: 12px;
+}
